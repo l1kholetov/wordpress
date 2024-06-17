@@ -325,3 +325,15 @@ h2.title {
   color: #4a4a4a;
   text-align: center;
 }
+
+.footer {
+  min-height: 169px;
+  padding: 57px 0 69px 0;
+
+  background-color: #1a1a1a;
+}
+
+.footer_links {
+  display: flex;
+  justify-content: center;
+}
