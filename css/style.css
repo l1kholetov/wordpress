@@ -333,7 +333,14 @@ h2.title {
   background-color: #1a1a1a;
 }
 
-.footer_links {
-  display: flex;
-  justify-content: center;
+.footer_content {
+  text-align: center;
+}
+
+.footer_content, .footer_link {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 21px;
+  color: #888;
 }
